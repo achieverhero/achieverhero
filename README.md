@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I’m Onyebuagu Achiever Hero
 
-<!--
-**achieverhero/achieverhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an emerging cybersecurity enthusiast passionate about **red teaming** and **security analysis**.  
+🔐 Currently learning ethical hacking and network security at Sabi Programmers.  
+🛡️ I’ve completed:
+- Cisco Introduction to Cybersecurity
+- Mastercard Cybersecurity Job Simulation (Forage)
+- AIG Shields Up Simulation
 
-Here are some ideas to get you started:
+💡 Working towards:
+- CompTIA Security+
+- CEH (Certified Ethical Hacker)
+- OSCP (Offensive Security Certified Professional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm exploring tools like:  
+`Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`, `Kali Linux`, and more.
+
+📫 Contact me: achieverhero@proton.me  
+🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/achiever-onyebuagu-267958369)  
+
+
+
