@@ -37,3 +37,6 @@
 [![Location](https://img.shields.io/badge/Nigeria-🇳🇬-lightgrey)](#)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=achieverhero&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/achieverhero?label=Followers&style=social)  
+![GitHub User's stars](https://img.shields.io/github/stars/achieverhero?affiliations=OWNER%2CCOLLABORATOR&style=social)
