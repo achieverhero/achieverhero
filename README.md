@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Onyebuagu Achiever Hero
 
 🎓 I'm an emerging cybersecurity enthusiast passionate about **red teaming** and **security analysis**.  
-🔐 Currently learning ethical hacking and network security at Sabi Programmers.  
+🔐 Currently learning cyber security and ethical hacking at Sabi Programmers.  
 🛡️ I’ve completed:
 - Cisco Introduction to Cybersecurity
 - Mastercard Cybersecurity Job Simulation (Forage)
